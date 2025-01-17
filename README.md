@@ -17,7 +17,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 📚 Materiais
 
-- planilha em `assets`
+- <a href="./planilhaDIO_ma.xlsx">planilha</a>
 
 ## 👨‍💻 Expert
 
